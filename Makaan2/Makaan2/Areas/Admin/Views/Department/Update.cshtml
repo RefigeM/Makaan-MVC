@@ -1,0 +1,21 @@
+﻿@model DepartmentUpdateVM
+@{
+    ViewData["Title"] = "Update";
+}
+
+<a class="btn btn-primary" asp-controller="Department" asp-action="Index">Back</a>
+
+<div class="card-header py-3">
+    <h6 class="m-0 font-weight-bold text-primary">Department update</h6>
+</div>
+<form method="post">
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" style="display : block" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

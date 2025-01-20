@@ -1,0 +1,35 @@
+﻿@model Agent
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <a class="btn btn-primary" asp-controller="Agent" asp-action="Index">Back</a>
+
+        <h6 class="m-0 font-weight-bold text-primary">Department info</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Image</th>
+                        <th>Department Name</th>
+                        <th>IsDeleted</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <td>@Model.Id</td>
+                        <td>@Model.Name</td>
+                        <td>@Model.Image</td>
+                        <td>@Model.Department.Name</td>
+                        <td>@Model.IsDeleted</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
