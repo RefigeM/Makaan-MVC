@@ -1,12 +1,14 @@
 ﻿using Makaan2.Contexts;
 using Makaan2.Models;
 using Makaan2.ViewModels.Agent;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace Makaan2.Areas.Admin.Controllers
 {
 	[Area("Admin")]
+	[Authorize]
 	public class AgentController : Controller
 	{
 		private readonly MakaanDbContext _context;

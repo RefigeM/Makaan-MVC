@@ -3,8 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\extentions\\seedextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\extentions\\seedextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\extentions\\rolesextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\extentions\\rolesextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\models\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\models\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\viewmodels\\authsvms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\viewmodels\\authsvms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\viewmodels\\authsvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\viewmodels\\authsvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\migrations\\20250120183911_usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\migrations\\20250120183911_usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\configuartions\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\configuartions\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\contexts\\makaandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\contexts\\makaandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\viewmodels\\departmentvms\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\viewmodels\\departmentvms\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\views\\agent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,16 +91,8 @@
       "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\views\\agent\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\views\\agent\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\views\\agent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,14 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\viewmodels\\departmentvms\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\viewmodels\\departmentvms\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\views\\agent\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -71,20 +131,8 @@
       "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\views\\department\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\viewmodels\\departmentvms\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\viewmodels\\departmentvms\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\contexts\\makaandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\contexts\\makaandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,10 +167,6 @@
       "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\makaan2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\makaan-mvc\\makaan2\\makaan2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDDBB536-DF12-4154-8893-D87AB088E18C}|Makaan2\\Makaan2.csproj|solutionrelative:makaan2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -134,11 +178,236 @@
       "DocumentGroups": [
         {
           "DockedWidth": 206,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedExtention.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Extentions\\SeedExtention.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Extentions\\SeedExtention.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Extentions\\SeedExtention.cs*",
+              "RelativeToolTip": "Makaan2\\Extentions\\SeedExtention.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:49:20.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesExtention.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Extentions\\RolesExtention.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Extentions\\RolesExtention.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Extentions\\RolesExtention.cs",
+              "RelativeToolTip": "Makaan2\\Extentions\\RolesExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:41:07.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Models\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Models\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Models\\Enums\\Roles.cs",
+              "RelativeToolTip": "Makaan2\\Models\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:26:53.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Program.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Program.cs",
+              "RelativeToolTip": "Makaan2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:33:28.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\AuthsVMs\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Makaan2\\ViewModels\\AuthsVMs\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\AuthsVMs\\RegisterVM.cs",
+              "RelativeToolTip": "Makaan2\\ViewModels\\AuthsVMs\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:27:44.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:44:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:31:29.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "Makaan2\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:19:20.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Makaan2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Makaan2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:36:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T11:47:34.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:46:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Makaan2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Makaan2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:36:09.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Configuartions\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Configuartions\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Configuartions\\UserConfiguration.cs",
+              "RelativeToolTip": "Makaan2\\Configuartions\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:35:00.272Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\AuthsVMs\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Makaan2\\ViewModels\\AuthsVMs\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\AuthsVMs\\LoginVM.cs",
+              "RelativeToolTip": "Makaan2\\ViewModels\\AuthsVMs\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:12:01.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Makaan2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Makaan2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T19:21:37.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Makaan2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Makaan2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T19:25:19.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250120183911_UserTable.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Migrations\\20250120183911_UserTable.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Migrations\\20250120183911_UserTable.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Migrations\\20250120183911_UserTable.cs",
+              "RelativeToolTip": "Makaan2\\Migrations\\20250120183911_UserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:39:12.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Models\\AppUser.cs",
+              "RelativeToolTip": "Makaan2\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:30:56.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "DepartmentCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\DepartmentVMs\\DepartmentCreateVM.cs",
               "RelativeDocumentMoniker": "Makaan2\\ViewModels\\DepartmentVMs\\DepartmentCreateVM.cs",
@@ -150,43 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T09:26:53.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T08:33:23.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Agent\\Create.cshtml",
-              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Agent\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Agent\\Create.cshtml",
-              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Agent\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T17:05:13.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Agent\\Update.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Agent\\Update.cshtml",
@@ -198,69 +431,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Agent\\Create.cshtml",
+              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Agent\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Agent\\Create.cshtml",
+              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Agent\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T17:05:13.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAD8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAIBJwD8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-18T10:33:40.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Program.cs",
-              "RelativeDocumentMoniker": "Makaan2\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Program.cs",
-              "RelativeToolTip": "Makaan2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:33:28.288Z"
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:33:23.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
+              "Title": "MakaanDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Contexts\\MakaanDbContext.cs",
+              "RelativeDocumentMoniker": "Makaan2\\Contexts\\MakaanDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Contexts\\MakaanDbContext.cs",
+              "RelativeToolTip": "Makaan2\\Contexts\\MakaanDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:56:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:26:53.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Agent\\Index.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Agent\\Index.cshtml",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Agent\\Index.cshtml",
               "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Agent\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T18:11:13.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T18:11:13.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs*",
-              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs*",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:46:28.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AgentController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
-              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
-              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAwCQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:44:35.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "AgentCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\Agent\\AgentCreateVM.cs",
               "RelativeDocumentMoniker": "Makaan2\\ViewModels\\Agent\\AgentCreateVM.cs",
@@ -272,19 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T10:31:29.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Agent\\Info.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Agent\\Info.cshtml",
@@ -296,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "AgentUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\Agent\\AgentUpdateVM.cs",
               "RelativeDocumentMoniker": "Makaan2\\ViewModels\\Agent\\AgentUpdateVM.cs",
@@ -308,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "AgentListItemVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\Agent\\AgentListItemVM.cs",
               "RelativeDocumentMoniker": "Makaan2\\ViewModels\\Agent\\AgentListItemVM.cs",
@@ -320,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -332,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Info.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Department\\Info.cshtml",
@@ -344,19 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "Makaan2\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T11:47:34.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "DepartmentUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ViewModels\\DepartmentVMs\\DepartmentUpdateVM.cs",
               "RelativeDocumentMoniker": "Makaan2\\ViewModels\\DepartmentVMs\\DepartmentUpdateVM.cs",
@@ -368,31 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Makaan2\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Makaan2\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T09:36:29.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MakaanDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Contexts\\MakaanDbContext.cs",
-              "RelativeDocumentMoniker": "Makaan2\\Contexts\\MakaanDbContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Contexts\\MakaanDbContext.cs",
-              "RelativeToolTip": "Makaan2\\Contexts\\MakaanDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T18:56:57.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -404,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Makaan2\\Controllers\\HomeController.cs",
@@ -416,31 +611,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Makaan2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEkCAAAAAAAAAAAAAFcCAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAEYCAAAAAAAAAIBJwFcCAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-18T09:33:22.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "AgentService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Services\\Implements\\AgentService.cs",
               "RelativeDocumentMoniker": "Makaan2\\Services\\Implements\\AgentService.cs",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Services\\Implements\\AgentService.cs",
               "RelativeToolTip": "Makaan2\\Services\\Implements\\AgentService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAzwA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T09:50:44.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "IAgentService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Services\\Interfaces\\IAgentService.cs",
               "RelativeDocumentMoniker": "Makaan2\\Services\\Interfaces\\IAgentService.cs",
@@ -452,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -464,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Makaan2\\ScaffoldingReadMe.txt",
@@ -476,19 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Makaan2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Makaan2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAEwK4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T09:36:09.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Makaan2\\Views\\_ViewStart.cshtml",
@@ -500,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 40,
               "Title": "Makaan2.csproj",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Makaan2.csproj",
               "RelativeDocumentMoniker": "Makaan2\\Makaan2.csproj",

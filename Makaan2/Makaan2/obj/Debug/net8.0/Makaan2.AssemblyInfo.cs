@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Makaan2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168f97bbc329c431baa7e085b6cb188ef36c9a9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+782bcb9bbaa7371e7694049acb616f1f4db37fd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Makaan2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Makaan2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
