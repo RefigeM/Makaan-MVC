@@ -186,12 +186,11 @@
               "Title": "SeedExtention.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Extentions\\SeedExtention.cs",
               "RelativeDocumentMoniker": "Makaan2\\Extentions\\SeedExtention.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Extentions\\SeedExtention.cs*",
-              "RelativeToolTip": "Makaan2\\Extentions\\SeedExtention.cs*",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Extentions\\SeedExtention.cs",
+              "RelativeToolTip": "Makaan2\\Extentions\\SeedExtention.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:49:20.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:49:20.181Z"
             },
             {
               "$type": "Document",
@@ -203,8 +202,7 @@
               "RelativeToolTip": "Makaan2\\Extentions\\RolesExtention.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T16:41:07.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T16:41:07.089Z"
             },
             {
               "$type": "Document",
@@ -216,8 +214,7 @@
               "RelativeToolTip": "Makaan2\\Models\\Enums\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T16:26:53.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T16:26:53.802Z"
             },
             {
               "$type": "Document",
@@ -229,8 +226,7 @@
               "RelativeToolTip": "Makaan2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:33:28.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T09:33:28.288Z"
             },
             {
               "$type": "Document",
@@ -254,8 +250,7 @@
               "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\AgentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:44:35.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T11:44:35.001Z"
             },
             {
               "$type": "Document",
@@ -267,8 +262,7 @@
               "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T10:31:29.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T10:31:29.311Z"
             },
             {
               "$type": "Document",
@@ -276,8 +270,8 @@
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Makaan2\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "Makaan2\\Controllers\\AccountController.cs*",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Makaan-MVC\\Makaan2\\Makaan2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Makaan2\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T19:19:20.571Z",
@@ -317,8 +311,7 @@
               "RelativeToolTip": "Makaan2\\Areas\\Admin\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:46:28.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T11:46:28.957Z"
             },
             {
               "$type": "Document",
@@ -330,8 +323,7 @@
               "RelativeToolTip": "Makaan2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T09:36:09.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T09:36:09.663Z"
             },
             {
               "$type": "Document",
